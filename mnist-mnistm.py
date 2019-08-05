@@ -38,7 +38,7 @@ manual_seed = random.randint(1, 10000)
 random.seed(manual_seed)
 torch.manual_seed(manual_seed)
 
-class ReverseLayerF(Function):
+class ReverseLayerF(Function): #梯度反转层
 
     @staticmethod
     def forward(ctx, x, alpha):
