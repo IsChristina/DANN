@@ -1,0 +1,498 @@
+epoch: 17, [iter: 200 / all 461], err_s_label: 0.189776, err_s_domain: 0.580921, err_t_domain: 0.647400
+epoch: 17, [iter: 300 / all 461], err_s_label: 0.135936, err_s_domain: 0.683035, err_t_domain: 0.646382
+epoch: 17, [iter: 400 / all 461], err_s_label: 0.242020, err_s_domain: 0.591088, err_t_domain: 0.760445
+epoch: 17, accuracy of the mnist dataset: 0.982800
+epoch: 17, accuracy of the mnistM dataset: 0.813021
+epoch: 18, [iter: 100 / all 461], err_s_label: 0.075059, err_s_domain: 0.683779, err_t_domain: 0.606379
+epoch: 18, [iter: 200 / all 461], err_s_label: 0.107688, err_s_domain: 0.643895, err_t_domain: 0.649637
+epoch: 18, [iter: 300 / all 461], err_s_label: 0.213905, err_s_domain: 0.602014, err_t_domain: 0.696257
+epoch: 18, [iter: 400 / all 461], err_s_label: 0.206028, err_s_domain: 0.624527, err_t_domain: 0.660955
+epoch: 18, accuracy of the mnist dataset: 0.978500
+epoch: 18, accuracy of the mnistM dataset: 0.817131
+epoch: 19, [iter: 100 / all 461], err_s_label: 0.140615, err_s_domain: 0.625216, err_t_domain: 0.581340
+epoch: 19, [iter: 200 / all 461], err_s_label: 0.069988, err_s_domain: 0.666179, err_t_domain: 0.600770
+epoch: 19, [iter: 300 / all 461], err_s_label: 0.241493, err_s_domain: 0.639311, err_t_domain: 0.616071
+epoch: 19, [iter: 400 / all 461], err_s_label: 0.170734, err_s_domain: 0.706437, err_t_domain: 0.620480
+epoch: 19, accuracy of the mnist dataset: 0.986300
+epoch: 19, accuracy of the mnistM dataset: 0.838240
+epoch: 20, [iter: 100 / all 461], err_s_label: 0.274042, err_s_domain: 0.617105, err_t_domain: 0.665789
+epoch: 20, [iter: 200 / all 461], err_s_label: 0.053186, err_s_domain: 0.613094, err_t_domain: 0.616991
+epoch: 20, [iter: 300 / all 461], err_s_label: 0.148535, err_s_domain: 0.614569, err_t_domain: 0.583609
+epoch: 20, [iter: 400 / all 461], err_s_label: 0.141267, err_s_domain: 0.643357, err_t_domain: 0.585148
+epoch: 20, accuracy of the mnist dataset: 0.984900
+epoch: 20, accuracy of the mnistM dataset: 0.786468
+epoch: 21, [iter: 100 / all 461], err_s_label: 0.144813, err_s_domain: 0.682888, err_t_domain: 0.677887
+epoch: 21, [iter: 200 / all 461], err_s_label: 0.130114, err_s_domain: 0.603271, err_t_domain: 0.617167
+epoch: 21, [iter: 300 / all 461], err_s_label: 0.164618, err_s_domain: 0.641911, err_t_domain: 0.670327
+epoch: 21, [iter: 400 / all 461], err_s_label: 0.202124, err_s_domain: 0.631988, err_t_domain: 0.586083
+epoch: 21, accuracy of the mnist dataset: 0.982200
+epoch: 21, accuracy of the mnistM dataset: 0.847906
+epoch: 22, [iter: 100 / all 461], err_s_label: 0.170025, err_s_domain: 0.621531, err_t_domain: 0.671486
+epoch: 22, [iter: 200 / all 461], err_s_label: 0.123819, err_s_domain: 0.618293, err_t_domain: 0.705856
+epoch: 22, [iter: 300 / all 461], err_s_label: 0.095907, err_s_domain: 0.697007, err_t_domain: 0.692774
+epoch: 22, [iter: 400 / all 461], err_s_label: 0.120806, err_s_domain: 0.632199, err_t_domain: 0.632819
+epoch: 22, accuracy of the mnist dataset: 0.985200
+epoch: 22, accuracy of the mnistM dataset: 0.849461
+epoch: 23, [iter: 100 / all 461], err_s_label: 0.114539, err_s_domain: 0.674118, err_t_domain: 0.610071
+epoch: 23, [iter: 200 / all 461], err_s_label: 0.170914, err_s_domain: 0.588167, err_t_domain: 0.650163
+epoch: 23, [iter: 300 / all 461], err_s_label: 0.064761, err_s_domain: 0.663144, err_t_domain: 0.661236
+epoch: 23, [iter: 400 / all 461], err_s_label: 0.182109, err_s_domain: 0.668682, err_t_domain: 0.644370
+epoch: 23, accuracy of the mnist dataset: 0.979200
+epoch: 23, accuracy of the mnistM dataset: 0.842795
+epoch: 24, [iter: 100 / all 461], err_s_label: 0.081764, err_s_domain: 0.613071, err_t_domain: 0.701626
+epoch: 24, [iter: 200 / all 461], err_s_label: 0.128390, err_s_domain: 0.565135, err_t_domain: 0.695250
+epoch: 24, [iter: 300 / all 461], err_s_label: 0.099370, err_s_domain: 0.582972, err_t_domain: 0.615841
+epoch: 24, [iter: 400 / all 461], err_s_label: 0.321248, err_s_domain: 0.601695, err_t_domain: 0.677713
+epoch: 24, accuracy of the mnist dataset: 0.980600
+epoch: 24, accuracy of the mnistM dataset: 0.876680
+epoch: 25, [iter: 100 / all 461], err_s_label: 0.126688, err_s_domain: 0.656507, err_t_domain: 0.664922
+epoch: 25, [iter: 200 / all 461], err_s_label: 0.085335, err_s_domain: 0.638766, err_t_domain: 0.594824
+epoch: 25, [iter: 300 / all 461], err_s_label: 0.116804, err_s_domain: 0.607554, err_t_domain: 0.645556
+epoch: 25, [iter: 400 / all 461], err_s_label: 0.153967, err_s_domain: 0.633110, err_t_domain: 0.635025
+epoch: 25, accuracy of the mnist dataset: 0.983100
+epoch: 25, accuracy of the mnistM dataset: 0.822242
+epoch: 26, [iter: 100 / all 461], err_s_label: 0.280727, err_s_domain: 0.667500, err_t_domain: 0.688883
+epoch: 26, [iter: 200 / all 461], err_s_label: 0.100525, err_s_domain: 0.638481, err_t_domain: 0.621000
+epoch: 26, [iter: 300 / all 461], err_s_label: 0.175629, err_s_domain: 0.631399, err_t_domain: 0.629706
+epoch: 26, [iter: 400 / all 461], err_s_label: 0.143933, err_s_domain: 0.619368, err_t_domain: 0.641380
+epoch: 26, accuracy of the mnist dataset: 0.982600
+epoch: 26, accuracy of the mnistM dataset: 0.866904
+epoch: 27, [iter: 100 / all 461], err_s_label: 0.141371, err_s_domain: 0.602546, err_t_domain: 0.690488
+epoch: 27, [iter: 200 / all 461], err_s_label: 0.104970, err_s_domain: 0.622456, err_t_domain: 0.656042
+epoch: 27, [iter: 300 / all 461], err_s_label: 0.123229, err_s_domain: 0.705411, err_t_domain: 0.621310
+epoch: 27, [iter: 400 / all 461], err_s_label: 0.226590, err_s_domain: 0.634281, err_t_domain: 0.631539
+epoch: 27, accuracy of the mnist dataset: 0.983600
+epoch: 27, accuracy of the mnistM dataset: 0.882235
+epoch: 28, [iter: 100 / all 461], err_s_label: 0.168793, err_s_domain: 0.632653, err_t_domain: 0.682060
+epoch: 28, [iter: 200 / all 461], err_s_label: 0.079957, err_s_domain: 0.590997, err_t_domain: 0.681301
+epoch: 28, [iter: 300 / all 461], err_s_label: 0.076730, err_s_domain: 0.630853, err_t_domain: 0.634773
+epoch: 28, [iter: 400 / all 461], err_s_label: 0.142122, err_s_domain: 0.620731, err_t_domain: 0.634252
+epoch: 28, accuracy of the mnist dataset: 0.984600
+epoch: 28, accuracy of the mnistM dataset: 0.871014
+epoch: 29, [iter: 100 / all 461], err_s_label: 0.103256, err_s_domain: 0.636847, err_t_domain: 0.659589
+epoch: 29, [iter: 200 / all 461], err_s_label: 0.213838, err_s_domain: 0.634951, err_t_domain: 0.637424
+epoch: 29, [iter: 300 / all 461], err_s_label: 0.105882, err_s_domain: 0.636725, err_t_domain: 0.667028
+epoch: 29, [iter: 400 / all 461], err_s_label: 0.068393, err_s_domain: 0.600413, err_t_domain: 0.619350
+epoch: 29, accuracy of the mnist dataset: 0.981500
+epoch: 29, accuracy of the mnistM dataset: 0.867237
+epoch: 30, [iter: 100 / all 461], err_s_label: 0.168605, err_s_domain: 0.633713, err_t_domain: 0.660624
+epoch: 30, [iter: 200 / all 461], err_s_label: 0.046799, err_s_domain: 0.633022, err_t_domain: 0.642644
+epoch: 30, [iter: 300 / all 461], err_s_label: 0.077581, err_s_domain: 0.674813, err_t_domain: 0.587424
+epoch: 30, [iter: 400 / all 461], err_s_label: 0.097607, err_s_domain: 0.667585, err_t_domain: 0.677389
+epoch: 30, accuracy of the mnist dataset: 0.983800
+epoch: 30, accuracy of the mnistM dataset: 0.813576
+epoch: 31, [iter: 100 / all 461], err_s_label: 0.107303, err_s_domain: 0.628147, err_t_domain: 0.664842
+epoch: 31, [iter: 200 / all 461], err_s_label: 0.140038, err_s_domain: 0.700189, err_t_domain: 0.687546
+epoch: 31, [iter: 300 / all 461], err_s_label: 0.155548, err_s_domain: 0.597394, err_t_domain: 0.716909
+epoch: 31, [iter: 400 / all 461], err_s_label: 0.138671, err_s_domain: 0.666837, err_t_domain: 0.683999
+epoch: 31, accuracy of the mnist dataset: 0.980200
+epoch: 31, accuracy of the mnistM dataset: 0.856460
+epoch: 32, [iter: 100 / all 461], err_s_label: 0.244850, err_s_domain: 0.637747, err_t_domain: 0.655597
+epoch: 32, [iter: 200 / all 461], err_s_label: 0.140841, err_s_domain: 0.666212, err_t_domain: 0.656903
+epoch: 32, [iter: 300 / all 461], err_s_label: 0.175242, err_s_domain: 0.648634, err_t_domain: 0.630950
+epoch: 32, [iter: 400 / all 461], err_s_label: 0.133969, err_s_domain: 0.621944, err_t_domain: 0.645802
+epoch: 32, accuracy of the mnist dataset: 0.980900
+epoch: 32, accuracy of the mnistM dataset: 0.857460
+epoch: 33, [iter: 100 / all 461], err_s_label: 0.107663, err_s_domain: 0.750907, err_t_domain: 0.610955
+epoch: 33, [iter: 200 / all 461], err_s_label: 0.118848, err_s_domain: 0.677437, err_t_domain: 0.621116
+epoch: 33, [iter: 300 / all 461], err_s_label: 0.237685, err_s_domain: 0.588165, err_t_domain: 0.689624
+epoch: 33, [iter: 400 / all 461], err_s_label: 0.092069, err_s_domain: 0.641210, err_t_domain: 0.696388
+epoch: 33, accuracy of the mnist dataset: 0.982400
+epoch: 33, accuracy of the mnistM dataset: 0.882458
+epoch: 34, [iter: 100 / all 461], err_s_label: 0.162385, err_s_domain: 0.685860, err_t_domain: 0.660698
+epoch: 34, [iter: 200 / all 461], err_s_label: 0.063883, err_s_domain: 0.676028, err_t_domain: 0.647565
+epoch: 34, [iter: 300 / all 461], err_s_label: 0.038798, err_s_domain: 0.652615, err_t_domain: 0.646900
+epoch: 34, [iter: 400 / all 461], err_s_label: 0.166378, err_s_domain: 0.639224, err_t_domain: 0.665867
+epoch: 34, accuracy of the mnist dataset: 0.981400
+epoch: 34, accuracy of the mnistM dataset: 0.841018
+epoch: 35, [iter: 100 / all 461], err_s_label: 0.165511, err_s_domain: 0.652234, err_t_domain: 0.711808
+epoch: 35, [iter: 200 / all 461], err_s_label: 0.194131, err_s_domain: 0.649218, err_t_domain: 0.646410
+epoch: 35, [iter: 300 / all 461], err_s_label: 0.088074, err_s_domain: 0.653535, err_t_domain: 0.672970
+epoch: 35, [iter: 400 / all 461], err_s_label: 0.251715, err_s_domain: 0.597394, err_t_domain: 0.634272
+epoch: 35, accuracy of the mnist dataset: 0.979900
+epoch: 35, accuracy of the mnistM dataset: 0.846906
+epoch: 36, [iter: 100 / all 461], err_s_label: 0.117805, err_s_domain: 0.688467, err_t_domain: 0.652810
+epoch: 36, [iter: 200 / all 461], err_s_label: 0.117781, err_s_domain: 0.606279, err_t_domain: 0.659003
+epoch: 36, [iter: 300 / all 461], err_s_label: 0.136398, err_s_domain: 0.647663, err_t_domain: 0.670252
+epoch: 36, [iter: 400 / all 461], err_s_label: 0.190426, err_s_domain: 0.681008, err_t_domain: 0.652069
+epoch: 36, accuracy of the mnist dataset: 0.982800
+epoch: 36, accuracy of the mnistM dataset: 0.867681
+epoch: 37, [iter: 100 / all 461], err_s_label: 0.133090, err_s_domain: 0.665301, err_t_domain: 0.612400
+epoch: 37, [iter: 200 / all 461], err_s_label: 0.063132, err_s_domain: 0.672503, err_t_domain: 0.682694
+epoch: 37, [iter: 300 / all 461], err_s_label: 0.199223, err_s_domain: 0.694781, err_t_domain: 0.598658
+epoch: 37, [iter: 400 / all 461], err_s_label: 0.048814, err_s_domain: 0.574057, err_t_domain: 0.580159
+epoch: 37, accuracy of the mnist dataset: 0.982900
+epoch: 37, accuracy of the mnistM dataset: 0.862015
+epoch: 38, [iter: 100 / all 461], err_s_label: 0.181686, err_s_domain: 0.597937, err_t_domain: 0.495475
+epoch: 38, [iter: 200 / all 461], err_s_label: 0.235869, err_s_domain: 0.728930, err_t_domain: 0.695993
+epoch: 38, [iter: 300 / all 461], err_s_label: 0.132876, err_s_domain: 0.693354, err_t_domain: 0.679921
+epoch: 38, [iter: 400 / all 461], err_s_label: 0.158078, err_s_domain: 0.666275, err_t_domain: 0.659856
+epoch: 38, accuracy of the mnist dataset: 0.976700
+epoch: 38, accuracy of the mnistM dataset: 0.808910
+epoch: 39, [iter: 100 / all 461], err_s_label: 0.077027, err_s_domain: 0.703903, err_t_domain: 0.723271
+epoch: 39, [iter: 200 / all 461], err_s_label: 0.185313, err_s_domain: 0.673081, err_t_domain: 0.632881
+epoch: 39, [iter: 300 / all 461], err_s_label: 0.099192, err_s_domain: 0.657113, err_t_domain: 0.628888
+epoch: 39, [iter: 400 / all 461], err_s_label: 0.058175, err_s_domain: 0.660611, err_t_domain: 0.591599
+epoch: 39, accuracy of the mnist dataset: 0.980600
+epoch: 39, accuracy of the mnistM dataset: 0.883346
+epoch: 40, [iter: 100 / all 461], err_s_label: 0.118909, err_s_domain: 0.656554, err_t_domain: 0.639825
+epoch: 40, [iter: 200 / all 461], err_s_label: 0.063936, err_s_domain: 0.623930, err_t_domain: 0.618176
+epoch: 40, [iter: 300 / all 461], err_s_label: 0.098638, err_s_domain: 0.599881, err_t_domain: 0.651027
+epoch: 40, [iter: 400 / all 461], err_s_label: 0.090717, err_s_domain: 0.638597, err_t_domain: 0.590562
+epoch: 40, accuracy of the mnist dataset: 0.978200
+epoch: 40, accuracy of the mnistM dataset: 0.870459
+epoch: 41, [iter: 100 / all 461], err_s_label: 0.118726, err_s_domain: 0.691136, err_t_domain: 0.666622
+epoch: 41, [iter: 200 / all 461], err_s_label: 0.117385, err_s_domain: 0.622080, err_t_domain: 0.614471
+epoch: 41, [iter: 300 / all 461], err_s_label: 0.095574, err_s_domain: 0.663102, err_t_domain: 0.665366
+epoch: 41, [iter: 400 / all 461], err_s_label: 0.145988, err_s_domain: 0.674568, err_t_domain: 0.670848
+epoch: 41, accuracy of the mnist dataset: 0.984200
+epoch: 41, accuracy of the mnistM dataset: 0.836796
+epoch: 42, [iter: 100 / all 461], err_s_label: 0.244519, err_s_domain: 0.612917, err_t_domain: 0.604610
+epoch: 42, [iter: 200 / all 461], err_s_label: 0.072405, err_s_domain: 0.670926, err_t_domain: 0.643526
+epoch: 42, [iter: 300 / all 461], err_s_label: 0.155608, err_s_domain: 0.637520, err_t_domain: 0.649986
+epoch: 42, [iter: 400 / all 461], err_s_label: 0.166404, err_s_domain: 0.664909, err_t_domain: 0.602365
+epoch: 42, accuracy of the mnist dataset: 0.983500
+epoch: 42, accuracy of the mnistM dataset: 0.872903
+epoch: 43, [iter: 100 / all 461], err_s_label: 0.085625, err_s_domain: 0.647537, err_t_domain: 0.657911
+epoch: 43, [iter: 200 / all 461], err_s_label: 0.118312, err_s_domain: 0.625017, err_t_domain: 0.662813
+epoch: 43, [iter: 300 / all 461], err_s_label: 0.147964, err_s_domain: 0.610941, err_t_domain: 0.732886
+epoch: 43, [iter: 400 / all 461], err_s_label: 0.099887, err_s_domain: 0.669462, err_t_domain: 0.666198
+epoch: 43, accuracy of the mnist dataset: 0.981800
+epoch: 43, accuracy of the mnistM dataset: 0.898234
+epoch: 44, [iter: 100 / all 461], err_s_label: 0.176496, err_s_domain: 0.699137, err_t_domain: 0.712315
+epoch: 44, [iter: 200 / all 461], err_s_label: 0.097818, err_s_domain: 0.632079, err_t_domain: 0.722811
+epoch: 44, [iter: 300 / all 461], err_s_label: 0.243629, err_s_domain: 0.668202, err_t_domain: 0.688186
+epoch: 44, [iter: 400 / all 461], err_s_label: 0.077085, err_s_domain: 0.633478, err_t_domain: 0.599546
+epoch: 44, accuracy of the mnist dataset: 0.978800
+epoch: 44, accuracy of the mnistM dataset: 0.892679
+epoch: 45, [iter: 100 / all 461], err_s_label: 0.171745, err_s_domain: 0.646983, err_t_domain: 0.688570
+epoch: 45, [iter: 200 / all 461], err_s_label: 0.081485, err_s_domain: 0.623225, err_t_domain: 0.677570
+epoch: 45, [iter: 300 / all 461], err_s_label: 0.116831, err_s_domain: 0.651121, err_t_domain: 0.641427
+epoch: 45, [iter: 400 / all 461], err_s_label: 0.199319, err_s_domain: 0.605193, err_t_domain: 0.622105
+epoch: 45, accuracy of the mnist dataset: 0.982400
+epoch: 45, accuracy of the mnistM dataset: 0.833907
+epoch: 46, [iter: 100 / all 461], err_s_label: 0.166415, err_s_domain: 0.646749, err_t_domain: 0.653632
+epoch: 46, [iter: 200 / all 461], err_s_label: 0.214034, err_s_domain: 0.635361, err_t_domain: 0.681071
+epoch: 46, [iter: 300 / all 461], err_s_label: 0.145423, err_s_domain: 0.635576, err_t_domain: 0.742625
+epoch: 46, [iter: 400 / all 461], err_s_label: 0.219399, err_s_domain: 0.627173, err_t_domain: 0.643110
+epoch: 46, accuracy of the mnist dataset: 0.983700
+epoch: 46, accuracy of the mnistM dataset: 0.871348
+epoch: 47, [iter: 100 / all 461], err_s_label: 0.071020, err_s_domain: 0.663132, err_t_domain: 0.608791
+epoch: 47, [iter: 200 / all 461], err_s_label: 0.081860, err_s_domain: 0.653270, err_t_domain: 0.628529
+epoch: 47, [iter: 300 / all 461], err_s_label: 0.126365, err_s_domain: 0.630026, err_t_domain: 0.707365
+epoch: 47, [iter: 400 / all 461], err_s_label: 0.191281, err_s_domain: 0.679660, err_t_domain: 0.659874
+epoch: 47, accuracy of the mnist dataset: 0.985600
+epoch: 47, accuracy of the mnistM dataset: 0.841240
+epoch: 48, [iter: 100 / all 461], err_s_label: 0.154129, err_s_domain: 0.660406, err_t_domain: 0.674547
+epoch: 48, [iter: 200 / all 461], err_s_label: 0.041714, err_s_domain: 0.634028, err_t_domain: 0.662442
+epoch: 48, [iter: 300 / all 461], err_s_label: 0.041920, err_s_domain: 0.678311, err_t_domain: 0.653823
+epoch: 48, [iter: 400 / all 461], err_s_label: 0.136075, err_s_domain: 0.626152, err_t_domain: 0.618488
+epoch: 48, accuracy of the mnist dataset: 0.981900
+epoch: 48, accuracy of the mnistM dataset: 0.854572
+epoch: 49, [iter: 100 / all 461], err_s_label: 0.045785, err_s_domain: 0.679648, err_t_domain: 0.672732
+epoch: 49, [iter: 200 / all 461], err_s_label: 0.147542, err_s_domain: 0.594531, err_t_domain: 0.632684
+epoch: 49, [iter: 300 / all 461], err_s_label: 0.095771, err_s_domain: 0.617837, err_t_domain: 0.675954
+epoch: 49, [iter: 400 / all 461], err_s_label: 0.075501, err_s_domain: 0.619353, err_t_domain: 0.652368
+epoch: 49, accuracy of the mnist dataset: 0.984800
+epoch: 49, accuracy of the mnistM dataset: 0.873792
+epoch: 50, [iter: 100 / all 461], err_s_label: 0.136265, err_s_domain: 0.696013, err_t_domain: 0.645399
+epoch: 50, [iter: 200 / all 461], err_s_label: 0.046709, err_s_domain: 0.745793, err_t_domain: 0.726783
+epoch: 50, [iter: 300 / all 461], err_s_label: 0.182545, err_s_domain: 0.761151, err_t_domain: 0.679357
+epoch: 50, [iter: 400 / all 461], err_s_label: 0.108493, err_s_domain: 0.618581, err_t_domain: 0.658890
+epoch: 50, accuracy of the mnist dataset: 0.986100
+epoch: 50, accuracy of the mnistM dataset: 0.857016
+epoch: 51, [iter: 100 / all 461], err_s_label: 0.129195, err_s_domain: 0.562230, err_t_domain: 0.612711
+epoch: 51, [iter: 200 / all 461], err_s_label: 0.104820, err_s_domain: 0.671465, err_t_domain: 0.677303
+epoch: 51, [iter: 300 / all 461], err_s_label: 0.081450, err_s_domain: 0.691743, err_t_domain: 0.655744
+epoch: 51, [iter: 400 / all 461], err_s_label: 0.118848, err_s_domain: 0.665351, err_t_domain: 0.685632
+epoch: 51, accuracy of the mnist dataset: 0.984900
+epoch: 51, accuracy of the mnistM dataset: 0.845795
+epoch: 52, [iter: 100 / all 461], err_s_label: 0.144552, err_s_domain: 0.636979, err_t_domain: 0.624565
+epoch: 52, [iter: 200 / all 461], err_s_label: 0.113207, err_s_domain: 0.750611, err_t_domain: 0.735413
+epoch: 52, [iter: 300 / all 461], err_s_label: 0.198693, err_s_domain: 0.699669, err_t_domain: 0.728642
+epoch: 52, [iter: 400 / all 461], err_s_label: 0.093419, err_s_domain: 0.601984, err_t_domain: 0.672953
+epoch: 52, accuracy of the mnist dataset: 0.984700
+epoch: 52, accuracy of the mnistM dataset: 0.827019
+epoch: 53, [iter: 100 / all 461], err_s_label: 0.068398, err_s_domain: 0.602905, err_t_domain: 0.660867
+epoch: 53, [iter: 200 / all 461], err_s_label: 0.065975, err_s_domain: 0.659995, err_t_domain: 0.614410
+epoch: 53, [iter: 300 / all 461], err_s_label: 0.187821, err_s_domain: 0.709048, err_t_domain: 0.591586
+epoch: 53, [iter: 400 / all 461], err_s_label: 0.114961, err_s_domain: 0.697285, err_t_domain: 0.691201
+epoch: 53, accuracy of the mnist dataset: 0.986600
+epoch: 53, accuracy of the mnistM dataset: 0.860682
+epoch: 54, [iter: 100 / all 461], err_s_label: 0.078275, err_s_domain: 0.725250, err_t_domain: 0.709892
+epoch: 54, [iter: 200 / all 461], err_s_label: 0.095925, err_s_domain: 0.572056, err_t_domain: 0.614061
+epoch: 54, [iter: 300 / all 461], err_s_label: 0.060473, err_s_domain: 0.684876, err_t_domain: 0.628286
+epoch: 54, [iter: 400 / all 461], err_s_label: 0.130525, err_s_domain: 0.721040, err_t_domain: 0.698411
+epoch: 54, accuracy of the mnist dataset: 0.985100
+epoch: 54, accuracy of the mnistM dataset: 0.880347
+epoch: 55, [iter: 100 / all 461], err_s_label: 0.162750, err_s_domain: 0.672214, err_t_domain: 0.633524
+epoch: 55, [iter: 200 / all 461], err_s_label: 0.101715, err_s_domain: 0.672445, err_t_domain: 0.709105
+epoch: 55, [iter: 300 / all 461], err_s_label: 0.180481, err_s_domain: 0.643969, err_t_domain: 0.721420
+epoch: 55, [iter: 400 / all 461], err_s_label: 0.087706, err_s_domain: 0.647138, err_t_domain: 0.615723
+epoch: 55, accuracy of the mnist dataset: 0.986400
+epoch: 55, accuracy of the mnistM dataset: 0.859238
+epoch: 56, [iter: 100 / all 461], err_s_label: 0.052232, err_s_domain: 0.736313, err_t_domain: 0.695222
+epoch: 56, [iter: 200 / all 461], err_s_label: 0.098603, err_s_domain: 0.700601, err_t_domain: 0.717159
+epoch: 56, [iter: 300 / all 461], err_s_label: 0.176657, err_s_domain: 0.594334, err_t_domain: 0.587413
+epoch: 56, [iter: 400 / all 461], err_s_label: 0.117475, err_s_domain: 0.638713, err_t_domain: 0.780289
+epoch: 56, accuracy of the mnist dataset: 0.981300
+epoch: 56, accuracy of the mnistM dataset: 0.847795
+epoch: 57, [iter: 100 / all 461], err_s_label: 0.078445, err_s_domain: 0.743102, err_t_domain: 0.744783
+epoch: 57, [iter: 200 / all 461], err_s_label: 0.114347, err_s_domain: 0.754990, err_t_domain: 0.681391
+epoch: 57, [iter: 300 / all 461], err_s_label: 0.129915, err_s_domain: 0.629578, err_t_domain: 0.612145
+epoch: 57, [iter: 400 / all 461], err_s_label: 0.066259, err_s_domain: 0.743696, err_t_domain: 0.656666
+epoch: 57, accuracy of the mnist dataset: 0.985200
+epoch: 57, accuracy of the mnistM dataset: 0.842129
+epoch: 58, [iter: 100 / all 461], err_s_label: 0.045577, err_s_domain: 0.640969, err_t_domain: 0.662886
+epoch: 58, [iter: 200 / all 461], err_s_label: 0.109039, err_s_domain: 0.622888, err_t_domain: 0.628835
+epoch: 58, [iter: 300 / all 461], err_s_label: 0.037305, err_s_domain: 0.664908, err_t_domain: 0.644606
+epoch: 58, [iter: 400 / all 461], err_s_label: 0.053975, err_s_domain: 0.634232, err_t_domain: 0.648540
+epoch: 58, accuracy of the mnist dataset: 0.979100
+epoch: 58, accuracy of the mnistM dataset: 0.858793
+epoch: 59, [iter: 100 / all 461], err_s_label: 0.179939, err_s_domain: 0.762368, err_t_domain: 0.673798
+epoch: 59, [iter: 200 / all 461], err_s_label: 0.119218, err_s_domain: 0.684609, err_t_domain: 0.689304
+epoch: 59, [iter: 300 / all 461], err_s_label: 0.102262, err_s_domain: 0.551169, err_t_domain: 0.596308
+epoch: 59, [iter: 400 / all 461], err_s_label: 0.064878, err_s_domain: 0.667063, err_t_domain: 0.672425
+epoch: 59, accuracy of the mnist dataset: 0.984500
+epoch: 59, accuracy of the mnistM dataset: 0.853239
+epoch: 60, [iter: 100 / all 461], err_s_label: 0.067710, err_s_domain: 0.650825, err_t_domain: 0.689877
+epoch: 60, [iter: 200 / all 461], err_s_label: 0.064643, err_s_domain: 0.623954, err_t_domain: 0.694789
+epoch: 60, [iter: 300 / all 461], err_s_label: 0.087371, err_s_domain: 0.695169, err_t_domain: 0.616781
+epoch: 60, [iter: 400 / all 461], err_s_label: 0.087743, err_s_domain: 0.685865, err_t_domain: 0.683029
+epoch: 60, accuracy of the mnist dataset: 0.982900
+epoch: 60, accuracy of the mnistM dataset: 0.844795
+epoch: 61, [iter: 100 / all 461], err_s_label: 0.021345, err_s_domain: 0.625481, err_t_domain: 0.676818
+epoch: 61, [iter: 200 / all 461], err_s_label: 0.191302, err_s_domain: 0.706193, err_t_domain: 0.633934
+epoch: 61, [iter: 300 / all 461], err_s_label: 0.099708, err_s_domain: 0.631596, err_t_domain: 0.598129
+epoch: 61, [iter: 400 / all 461], err_s_label: 0.067296, err_s_domain: 0.674621, err_t_domain: 0.726451
+epoch: 61, accuracy of the mnist dataset: 0.984600
+epoch: 61, accuracy of the mnistM dataset: 0.833241
+epoch: 62, [iter: 100 / all 461], err_s_label: 0.134828, err_s_domain: 0.624153, err_t_domain: 0.653677
+epoch: 62, [iter: 200 / all 461], err_s_label: 0.072610, err_s_domain: 0.633069, err_t_domain: 0.688998
+epoch: 62, [iter: 300 / all 461], err_s_label: 0.093363, err_s_domain: 0.805008, err_t_domain: 0.678613
+epoch: 62, [iter: 400 / all 461], err_s_label: 0.138164, err_s_domain: 0.614156, err_t_domain: 0.625863
+epoch: 62, accuracy of the mnist dataset: 0.988400
+epoch: 62, accuracy of the mnistM dataset: 0.841573
+epoch: 63, [iter: 100 / all 461], err_s_label: 0.223612, err_s_domain: 0.784903, err_t_domain: 0.785128
+epoch: 63, [iter: 200 / all 461], err_s_label: 0.081900, err_s_domain: 0.601245, err_t_domain: 0.670966
+epoch: 63, [iter: 300 / all 461], err_s_label: 0.088174, err_s_domain: 0.655644, err_t_domain: 0.757936
+epoch: 63, [iter: 400 / all 461], err_s_label: 0.130699, err_s_domain: 0.736845, err_t_domain: 0.628254
+epoch: 63, accuracy of the mnist dataset: 0.983500
+epoch: 63, accuracy of the mnistM dataset: 0.853794
+epoch: 64, [iter: 100 / all 461], err_s_label: 0.121595, err_s_domain: 0.665185, err_t_domain: 0.591291
+epoch: 64, [iter: 200 / all 461], err_s_label: 0.089800, err_s_domain: 0.646105, err_t_domain: 0.615773
+epoch: 64, [iter: 300 / all 461], err_s_label: 0.039392, err_s_domain: 0.644844, err_t_domain: 0.619867
+epoch: 64, [iter: 400 / all 461], err_s_label: 0.110969, err_s_domain: 0.656780, err_t_domain: 0.707933
+epoch: 64, accuracy of the mnist dataset: 0.983500
+epoch: 64, accuracy of the mnistM dataset: 0.816020
+epoch: 65, [iter: 100 / all 461], err_s_label: 0.061963, err_s_domain: 0.636700, err_t_domain: 0.675129
+epoch: 65, [iter: 200 / all 461], err_s_label: 0.087159, err_s_domain: 0.659976, err_t_domain: 0.676285
+epoch: 65, [iter: 300 / all 461], err_s_label: 0.100301, err_s_domain: 0.641138, err_t_domain: 0.655576
+epoch: 65, [iter: 400 / all 461], err_s_label: 0.045921, err_s_domain: 0.665605, err_t_domain: 0.621162
+epoch: 65, accuracy of the mnist dataset: 0.987400
+epoch: 65, accuracy of the mnistM dataset: 0.874681
+epoch: 66, [iter: 100 / all 461], err_s_label: 0.211458, err_s_domain: 0.689599, err_t_domain: 0.656137
+epoch: 66, [iter: 200 / all 461], err_s_label: 0.126981, err_s_domain: 0.721873, err_t_domain: 0.698816
+epoch: 66, [iter: 300 / all 461], err_s_label: 0.071193, err_s_domain: 0.598160, err_t_domain: 0.643497
+epoch: 66, [iter: 400 / all 461], err_s_label: 0.204812, err_s_domain: 0.701805, err_t_domain: 0.715105
+epoch: 66, accuracy of the mnist dataset: 0.980200
+epoch: 66, accuracy of the mnistM dataset: 0.855905
+epoch: 67, [iter: 100 / all 461], err_s_label: 0.249855, err_s_domain: 0.586819, err_t_domain: 0.728583
+epoch: 67, [iter: 200 / all 461], err_s_label: 0.032935, err_s_domain: 0.662281, err_t_domain: 0.658114
+epoch: 67, [iter: 300 / all 461], err_s_label: 0.076680, err_s_domain: 0.683472, err_t_domain: 0.712294
+epoch: 67, [iter: 400 / all 461], err_s_label: 0.142148, err_s_domain: 0.683725, err_t_domain: 0.706953
+epoch: 67, accuracy of the mnist dataset: 0.987800
+epoch: 67, accuracy of the mnistM dataset: 0.880458
+epoch: 68, [iter: 100 / all 461], err_s_label: 0.212498, err_s_domain: 0.699911, err_t_domain: 0.665592
+epoch: 68, [iter: 200 / all 461], err_s_label: 0.114627, err_s_domain: 0.759080, err_t_domain: 0.736125
+epoch: 68, [iter: 300 / all 461], err_s_label: 0.078801, err_s_domain: 0.622741, err_t_domain: 0.650627
+epoch: 68, [iter: 400 / all 461], err_s_label: 0.074859, err_s_domain: 0.729861, err_t_domain: 0.661810
+epoch: 68, accuracy of the mnist dataset: 0.987600
+epoch: 68, accuracy of the mnistM dataset: 0.866793
+epoch: 69, [iter: 100 / all 461], err_s_label: 0.037157, err_s_domain: 0.653494, err_t_domain: 0.684276
+epoch: 69, [iter: 200 / all 461], err_s_label: 0.212590, err_s_domain: 0.703331, err_t_domain: 0.623790
+epoch: 69, [iter: 300 / all 461], err_s_label: 0.068927, err_s_domain: 0.614692, err_t_domain: 0.717883
+epoch: 69, [iter: 400 / all 461], err_s_label: 0.066708, err_s_domain: 0.653009, err_t_domain: 0.679407
+epoch: 69, accuracy of the mnist dataset: 0.982700
+epoch: 69, accuracy of the mnistM dataset: 0.840907
+epoch: 70, [iter: 100 / all 461], err_s_label: 0.023995, err_s_domain: 0.660789, err_t_domain: 0.667093
+epoch: 70, [iter: 200 / all 461], err_s_label: 0.166983, err_s_domain: 0.687483, err_t_domain: 0.643593
+epoch: 70, [iter: 300 / all 461], err_s_label: 0.039149, err_s_domain: 0.654382, err_t_domain: 0.617370
+epoch: 70, [iter: 400 / all 461], err_s_label: 0.115966, err_s_domain: 0.602393, err_t_domain: 0.607059
+epoch: 70, accuracy of the mnist dataset: 0.987700
+epoch: 70, accuracy of the mnistM dataset: 0.858238
+epoch: 71, [iter: 100 / all 461], err_s_label: 0.031343, err_s_domain: 0.571674, err_t_domain: 0.722343
+epoch: 71, [iter: 200 / all 461], err_s_label: 0.049448, err_s_domain: 0.653077, err_t_domain: 0.645875
+epoch: 71, [iter: 300 / all 461], err_s_label: 0.104194, err_s_domain: 0.645587, err_t_domain: 0.656163
+epoch: 71, [iter: 400 / all 461], err_s_label: 0.122383, err_s_domain: 0.617259, err_t_domain: 0.624988
+epoch: 71, accuracy of the mnist dataset: 0.986100
+epoch: 71, accuracy of the mnistM dataset: 0.852239
+epoch: 72, [iter: 100 / all 461], err_s_label: 0.087283, err_s_domain: 0.619727, err_t_domain: 0.645039
+epoch: 72, [iter: 200 / all 461], err_s_label: 0.081101, err_s_domain: 0.637299, err_t_domain: 0.728713
+epoch: 72, [iter: 300 / all 461], err_s_label: 0.110167, err_s_domain: 0.687453, err_t_domain: 0.654683
+epoch: 72, [iter: 400 / all 461], err_s_label: 0.069049, err_s_domain: 0.585693, err_t_domain: 0.580619
+epoch: 72, accuracy of the mnist dataset: 0.984400
+epoch: 72, accuracy of the mnistM dataset: 0.832019
+epoch: 73, [iter: 100 / all 461], err_s_label: 0.058594, err_s_domain: 0.588241, err_t_domain: 0.632745
+epoch: 73, [iter: 200 / all 461], err_s_label: 0.062635, err_s_domain: 0.664769, err_t_domain: 0.735750
+epoch: 73, [iter: 300 / all 461], err_s_label: 0.059638, err_s_domain: 0.688161, err_t_domain: 0.637410
+epoch: 73, [iter: 400 / all 461], err_s_label: 0.048825, err_s_domain: 0.715436, err_t_domain: 0.701254
+epoch: 73, accuracy of the mnist dataset: 0.988100
+epoch: 73, accuracy of the mnistM dataset: 0.834018
+epoch: 74, [iter: 100 / all 461], err_s_label: 0.110980, err_s_domain: 0.710142, err_t_domain: 0.635365
+epoch: 74, [iter: 200 / all 461], err_s_label: 0.148291, err_s_domain: 0.646961, err_t_domain: 0.654177
+epoch: 74, [iter: 300 / all 461], err_s_label: 0.121263, err_s_domain: 0.650453, err_t_domain: 0.703287
+epoch: 74, [iter: 400 / all 461], err_s_label: 0.143257, err_s_domain: 0.708447, err_t_domain: 0.648395
+epoch: 74, accuracy of the mnist dataset: 0.987900
+epoch: 74, accuracy of the mnistM dataset: 0.852572
+epoch: 75, [iter: 100 / all 461], err_s_label: 0.113457, err_s_domain: 0.691539, err_t_domain: 0.630004
+epoch: 75, [iter: 200 / all 461], err_s_label: 0.140877, err_s_domain: 0.705381, err_t_domain: 0.683059
+epoch: 75, [iter: 300 / all 461], err_s_label: 0.111538, err_s_domain: 0.606497, err_t_domain: 0.667911
+epoch: 75, [iter: 400 / all 461], err_s_label: 0.058809, err_s_domain: 0.681968, err_t_domain: 0.698956
+epoch: 75, accuracy of the mnist dataset: 0.985700
+epoch: 75, accuracy of the mnistM dataset: 0.812465
+epoch: 76, [iter: 100 / all 461], err_s_label: 0.042529, err_s_domain: 0.659385, err_t_domain: 0.624979
+epoch: 76, [iter: 200 / all 461], err_s_label: 0.055132, err_s_domain: 0.685214, err_t_domain: 0.617597
+epoch: 76, [iter: 300 / all 461], err_s_label: 0.120710, err_s_domain: 0.655041, err_t_domain: 0.633992
+epoch: 76, [iter: 400 / all 461], err_s_label: 0.080217, err_s_domain: 0.651239, err_t_domain: 0.649947
+epoch: 76, accuracy of the mnist dataset: 0.987700
+epoch: 76, accuracy of the mnistM dataset: 0.877236
+epoch: 77, [iter: 100 / all 461], err_s_label: 0.134567, err_s_domain: 0.691279, err_t_domain: 0.617340
+epoch: 77, [iter: 200 / all 461], err_s_label: 0.207320, err_s_domain: 0.723489, err_t_domain: 0.594632
+epoch: 77, [iter: 300 / all 461], err_s_label: 0.151897, err_s_domain: 0.600545, err_t_domain: 0.712843
+epoch: 77, [iter: 400 / all 461], err_s_label: 0.043734, err_s_domain: 0.649833, err_t_domain: 0.757744
+epoch: 77, accuracy of the mnist dataset: 0.985600
+epoch: 77, accuracy of the mnistM dataset: 0.870681
+epoch: 78, [iter: 100 / all 461], err_s_label: 0.101138, err_s_domain: 0.682351, err_t_domain: 0.636164
+epoch: 78, [iter: 200 / all 461], err_s_label: 0.071106, err_s_domain: 0.659456, err_t_domain: 0.713612
+epoch: 78, [iter: 300 / all 461], err_s_label: 0.049402, err_s_domain: 0.654013, err_t_domain: 0.678217
+epoch: 78, [iter: 400 / all 461], err_s_label: 0.039950, err_s_domain: 0.680005, err_t_domain: 0.675884
+epoch: 78, accuracy of the mnist dataset: 0.987100
+epoch: 78, accuracy of the mnistM dataset: 0.837240
+epoch: 79, [iter: 100 / all 461], err_s_label: 0.045721, err_s_domain: 0.654489, err_t_domain: 0.667815
+epoch: 79, [iter: 200 / all 461], err_s_label: 0.059048, err_s_domain: 0.661134, err_t_domain: 0.673409
+epoch: 79, [iter: 300 / all 461], err_s_label: 0.077655, err_s_domain: 0.682082, err_t_domain: 0.648634
+epoch: 79, [iter: 400 / all 461], err_s_label: 0.165229, err_s_domain: 0.650755, err_t_domain: 0.662172
+epoch: 79, accuracy of the mnist dataset: 0.985800
+epoch: 79, accuracy of the mnistM dataset: 0.829797
+epoch: 80, [iter: 100 / all 461], err_s_label: 0.051785, err_s_domain: 0.646727, err_t_domain: 0.677817
+epoch: 80, [iter: 200 / all 461], err_s_label: 0.101869, err_s_domain: 0.647075, err_t_domain: 0.667284
+epoch: 80, [iter: 300 / all 461], err_s_label: 0.067474, err_s_domain: 0.653116, err_t_domain: 0.671384
+epoch: 80, [iter: 400 / all 461], err_s_label: 0.093110, err_s_domain: 0.682802, err_t_domain: 0.625696
+epoch: 80, accuracy of the mnist dataset: 0.987800
+epoch: 80, accuracy of the mnistM dataset: 0.859238
+epoch: 81, [iter: 100 / all 461], err_s_label: 0.066147, err_s_domain: 0.686918, err_t_domain: 0.666340
+epoch: 81, [iter: 200 / all 461], err_s_label: 0.113944, err_s_domain: 0.654513, err_t_domain: 0.629594
+epoch: 81, [iter: 300 / all 461], err_s_label: 0.087813, err_s_domain: 0.628328, err_t_domain: 0.649605
+epoch: 81, [iter: 400 / all 461], err_s_label: 0.194560, err_s_domain: 0.673790, err_t_domain: 0.729250
+epoch: 81, accuracy of the mnist dataset: 0.985900
+epoch: 81, accuracy of the mnistM dataset: 0.866459
+epoch: 82, [iter: 100 / all 461], err_s_label: 0.069784, err_s_domain: 0.694145, err_t_domain: 0.630167
+epoch: 82, [iter: 200 / all 461], err_s_label: 0.043813, err_s_domain: 0.677813, err_t_domain: 0.725004
+epoch: 82, [iter: 300 / all 461], err_s_label: 0.046685, err_s_domain: 0.633208, err_t_domain: 0.637790
+epoch: 82, [iter: 400 / all 461], err_s_label: 0.118681, err_s_domain: 0.673794, err_t_domain: 0.707173
+epoch: 82, accuracy of the mnist dataset: 0.985000
+epoch: 82, accuracy of the mnistM dataset: 0.815798
+epoch: 83, [iter: 100 / all 461], err_s_label: 0.126574, err_s_domain: 0.672183, err_t_domain: 0.623151
+epoch: 83, [iter: 200 / all 461], err_s_label: 0.089578, err_s_domain: 0.681442, err_t_domain: 0.603796
+epoch: 83, [iter: 300 / all 461], err_s_label: 0.082965, err_s_domain: 0.721666, err_t_domain: 0.720851
+epoch: 83, [iter: 400 / all 461], err_s_label: 0.078108, err_s_domain: 0.642722, err_t_domain: 0.700543
+epoch: 83, accuracy of the mnist dataset: 0.985400
+epoch: 83, accuracy of the mnistM dataset: 0.848350
+epoch: 84, [iter: 100 / all 461], err_s_label: 0.137718, err_s_domain: 0.673734, err_t_domain: 0.681745
+epoch: 84, [iter: 200 / all 461], err_s_label: 0.044722, err_s_domain: 0.604714, err_t_domain: 0.722404
+epoch: 84, [iter: 300 / all 461], err_s_label: 0.245490, err_s_domain: 0.641150, err_t_domain: 0.655834
+epoch: 84, [iter: 400 / all 461], err_s_label: 0.113167, err_s_domain: 0.675510, err_t_domain: 0.708281
+epoch: 84, accuracy of the mnist dataset: 0.986300
+epoch: 84, accuracy of the mnistM dataset: 0.873125
+epoch: 85, [iter: 100 / all 461], err_s_label: 0.067290, err_s_domain: 0.684863, err_t_domain: 0.651068
+epoch: 85, [iter: 200 / all 461], err_s_label: 0.040675, err_s_domain: 0.644808, err_t_domain: 0.703031
+epoch: 85, [iter: 300 / all 461], err_s_label: 0.074563, err_s_domain: 0.668651, err_t_domain: 0.667607
+epoch: 85, [iter: 400 / all 461], err_s_label: 0.079384, err_s_domain: 0.665857, err_t_domain: 0.690663
+epoch: 85, accuracy of the mnist dataset: 0.984900
+epoch: 85, accuracy of the mnistM dataset: 0.856571
+epoch: 86, [iter: 100 / all 461], err_s_label: 0.124495, err_s_domain: 0.634575, err_t_domain: 0.592523
+epoch: 86, [iter: 200 / all 461], err_s_label: 0.069461, err_s_domain: 0.636284, err_t_domain: 0.706066
+epoch: 86, [iter: 300 / all 461], err_s_label: 0.038650, err_s_domain: 0.653906, err_t_domain: 0.681655
+epoch: 86, [iter: 400 / all 461], err_s_label: 0.092694, err_s_domain: 0.663154, err_t_domain: 0.648675
+epoch: 86, accuracy of the mnist dataset: 0.983300
+epoch: 86, accuracy of the mnistM dataset: 0.876125
+epoch: 87, [iter: 100 / all 461], err_s_label: 0.139297, err_s_domain: 0.700961, err_t_domain: 0.617076
+epoch: 87, [iter: 200 / all 461], err_s_label: 0.026829, err_s_domain: 0.632175, err_t_domain: 0.650113
+epoch: 87, [iter: 300 / all 461], err_s_label: 0.069625, err_s_domain: 0.628281, err_t_domain: 0.656528
+epoch: 87, [iter: 400 / all 461], err_s_label: 0.062532, err_s_domain: 0.672240, err_t_domain: 0.636222
+epoch: 87, accuracy of the mnist dataset: 0.984600
+epoch: 87, accuracy of the mnistM dataset: 0.851128
+epoch: 88, [iter: 100 / all 461], err_s_label: 0.098097, err_s_domain: 0.646190, err_t_domain: 0.695771
+epoch: 88, [iter: 200 / all 461], err_s_label: 0.100993, err_s_domain: 0.669311, err_t_domain: 0.675814
+epoch: 88, [iter: 300 / all 461], err_s_label: 0.187799, err_s_domain: 0.706143, err_t_domain: 0.609107
+epoch: 88, [iter: 400 / all 461], err_s_label: 0.038654, err_s_domain: 0.693574, err_t_domain: 0.709932
+epoch: 88, accuracy of the mnist dataset: 0.986100
+epoch: 88, accuracy of the mnistM dataset: 0.874903
+epoch: 89, [iter: 100 / all 461], err_s_label: 0.074926, err_s_domain: 0.660188, err_t_domain: 0.635703
+epoch: 89, [iter: 200 / all 461], err_s_label: 0.096725, err_s_domain: 0.646254, err_t_domain: 0.637795
+epoch: 89, [iter: 300 / all 461], err_s_label: 0.177082, err_s_domain: 0.728722, err_t_domain: 0.706503
+epoch: 89, [iter: 400 / all 461], err_s_label: 0.103602, err_s_domain: 0.683839, err_t_domain: 0.660277
+epoch: 89, accuracy of the mnist dataset: 0.985000
+epoch: 89, accuracy of the mnistM dataset: 0.848017
+epoch: 90, [iter: 100 / all 461], err_s_label: 0.128880, err_s_domain: 0.669088, err_t_domain: 0.666429
+epoch: 90, [iter: 200 / all 461], err_s_label: 0.018921, err_s_domain: 0.633428, err_t_domain: 0.633032
+epoch: 90, [iter: 300 / all 461], err_s_label: 0.100630, err_s_domain: 0.657328, err_t_domain: 0.725867
+epoch: 90, [iter: 400 / all 461], err_s_label: 0.039762, err_s_domain: 0.634148, err_t_domain: 0.625846
+epoch: 90, accuracy of the mnist dataset: 0.987500
+epoch: 90, accuracy of the mnistM dataset: 0.906566
+epoch: 91, [iter: 100 / all 461], err_s_label: 0.171436, err_s_domain: 0.673096, err_t_domain: 0.632451
+epoch: 91, [iter: 200 / all 461], err_s_label: 0.059027, err_s_domain: 0.662594, err_t_domain: 0.659921
+epoch: 91, [iter: 300 / all 461], err_s_label: 0.183486, err_s_domain: 0.632259, err_t_domain: 0.715253
+epoch: 91, [iter: 400 / all 461], err_s_label: 0.085540, err_s_domain: 0.629098, err_t_domain: 0.622933
+epoch: 91, accuracy of the mnist dataset: 0.984400
+epoch: 91, accuracy of the mnistM dataset: 0.847128
+epoch: 92, [iter: 100 / all 461], err_s_label: 0.048345, err_s_domain: 0.654280, err_t_domain: 0.687731
+epoch: 92, [iter: 200 / all 461], err_s_label: 0.067578, err_s_domain: 0.643050, err_t_domain: 0.673758
+epoch: 92, [iter: 300 / all 461], err_s_label: 0.075018, err_s_domain: 0.631804, err_t_domain: 0.651164
+epoch: 92, [iter: 400 / all 461], err_s_label: 0.024785, err_s_domain: 0.626000, err_t_domain: 0.666387
+epoch: 92, accuracy of the mnist dataset: 0.986800
+epoch: 92, accuracy of the mnistM dataset: 0.874792
+epoch: 93, [iter: 100 / all 461], err_s_label: 0.154691, err_s_domain: 0.619570, err_t_domain: 0.730540
+epoch: 93, [iter: 200 / all 461], err_s_label: 0.047421, err_s_domain: 0.617447, err_t_domain: 0.662933
+epoch: 93, [iter: 300 / all 461], err_s_label: 0.101396, err_s_domain: 0.636208, err_t_domain: 0.670970
+epoch: 93, [iter: 400 / all 461], err_s_label: 0.063669, err_s_domain: 0.653593, err_t_domain: 0.665638
+epoch: 93, accuracy of the mnist dataset: 0.986000
+epoch: 93, accuracy of the mnistM dataset: 0.858016
+epoch: 94, [iter: 100 / all 461], err_s_label: 0.074988, err_s_domain: 0.684229, err_t_domain: 0.715429
+epoch: 94, [iter: 200 / all 461], err_s_label: 0.064155, err_s_domain: 0.654406, err_t_domain: 0.673497
+epoch: 94, [iter: 300 / all 461], err_s_label: 0.100672, err_s_domain: 0.699667, err_t_domain: 0.663870
+epoch: 94, [iter: 400 / all 461], err_s_label: 0.040098, err_s_domain: 0.607225, err_t_domain: 0.689123
+epoch: 94, accuracy of the mnist dataset: 0.985600
+epoch: 94, accuracy of the mnistM dataset: 0.853239
+epoch: 95, [iter: 100 / all 461], err_s_label: 0.102590, err_s_domain: 0.666639, err_t_domain: 0.626039
+epoch: 95, [iter: 200 / all 461], err_s_label: 0.052059, err_s_domain: 0.670928, err_t_domain: 0.649591
+epoch: 95, [iter: 300 / all 461], err_s_label: 0.048628, err_s_domain: 0.643539, err_t_domain: 0.660576
+epoch: 95, [iter: 400 / all 461], err_s_label: 0.110509, err_s_domain: 0.672372, err_t_domain: 0.624632
+epoch: 95, accuracy of the mnist dataset: 0.985500
+epoch: 95, accuracy of the mnistM dataset: 0.899233
+epoch: 96, [iter: 100 / all 461], err_s_label: 0.070150, err_s_domain: 0.642225, err_t_domain: 0.649563
+epoch: 96, [iter: 200 / all 461], err_s_label: 0.121283, err_s_domain: 0.706181, err_t_domain: 0.616073
+epoch: 96, [iter: 300 / all 461], err_s_label: 0.060583, err_s_domain: 0.678880, err_t_domain: 0.680718
+epoch: 96, [iter: 400 / all 461], err_s_label: 0.051276, err_s_domain: 0.649475, err_t_domain: 0.680472
+epoch: 96, accuracy of the mnist dataset: 0.984100
+epoch: 96, accuracy of the mnistM dataset: 0.887568
+epoch: 97, [iter: 100 / all 461], err_s_label: 0.059849, err_s_domain: 0.650538, err_t_domain: 0.671118
+epoch: 97, [iter: 200 / all 461], err_s_label: 0.056550, err_s_domain: 0.658833, err_t_domain: 0.712817
+epoch: 97, [iter: 300 / all 461], err_s_label: 0.167795, err_s_domain: 0.694523, err_t_domain: 0.636331
+epoch: 97, [iter: 400 / all 461], err_s_label: 0.119129, err_s_domain: 0.719091, err_t_domain: 0.677941
+epoch: 97, accuracy of the mnist dataset: 0.986900
+epoch: 97, accuracy of the mnistM dataset: 0.895234
+epoch: 98, [iter: 100 / all 461], err_s_label: 0.045393, err_s_domain: 0.636657, err_t_domain: 0.673836
+epoch: 98, [iter: 200 / all 461], err_s_label: 0.148959, err_s_domain: 0.629202, err_t_domain: 0.658023
+epoch: 98, [iter: 300 / all 461], err_s_label: 0.093884, err_s_domain: 0.698716, err_t_domain: 0.673158
+epoch: 98, [iter: 400 / all 461], err_s_label: 0.053615, err_s_domain: 0.683351, err_t_domain: 0.643809
+epoch: 98, accuracy of the mnist dataset: 0.986600
+epoch: 98, accuracy of the mnistM dataset: 0.878236
+epoch: 99, [iter: 100 / all 461], err_s_label: 0.035015, err_s_domain: 0.639053, err_t_domain: 0.679426
+epoch: 99, [iter: 200 / all 461], err_s_label: 0.081166, err_s_domain: 0.631374, err_t_domain: 0.681455
+epoch: 99, [iter: 300 / all 461], err_s_label: 0.046971, err_s_domain: 0.663597, err_t_domain: 0.670214
+epoch: 99, [iter: 400 / all 461], err_s_label: 0.053144, err_s_domain: 0.627067, err_t_domain: 0.644066
+epoch: 99, accuracy of the mnist dataset: 0.982900
+epoch: 99, accuracy of the mnistM dataset: 0.868792
+done
